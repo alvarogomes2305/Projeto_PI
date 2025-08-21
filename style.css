@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+    position: relative;
+    overflow: hidden;
+}
+#personagem, #npc {
+    width: 32px;
+    height: 32px;
+    background-image: url('L.png');
+    background-position: 0 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
