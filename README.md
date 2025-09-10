@@ -37,10 +37,10 @@ O projeto está em constante evolução e serve como espaço de aprendizado prá
 ---
 
 ## 📅 Próximos Passos  
-- [ ] Criar funcionalidades principais com JavaScript POO  
-- [ ] Implementar design responsivo com CSS  
-- [ ] Adicionar interatividade e novas features  
-- [ ] Melhorar a documentação  
+- Criar funcionalidades principais com JavaScript POO  
+- Implementar design responsivo com CSS  
+- Adicionar interatividade e novas features  
+- Melhorar a documentação  
 
 ---
 
